@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c92da05a-a1a1-46c9-8098-c6a3df4ff45c" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scipts/GameManager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="599">
+              <caret line="108" column="9" selection-start-line="108" selection-start-column="9" selection-end-line="108" selection-end-column="9" />
+              <folding>
+                <marker date="1566387376273" expanded="true" signature="6:133" ph="..." />
+                <marker date="1566387376273" expanded="true" signature="175:2561" ph="{...}" />
+                <marker date="1566387376273" expanded="true" signature="484:625" ph="/* [FormerlySerializedAs(&quot;isBuidDirRoad&quot;)] ... */" />
+                <marker date="1566387376273" expanded="true" signature="663:727" ph="/* int dirRoadType; //方向道路的类型 ... */" />
+                <marker date="1566387376273" expanded="true" signature="750:1250" ph="{...}" />
+                <marker date="1566387376273" expanded="true" signature="1026:1178" ph="{...}" />
+                <marker date="1566387376273" expanded="true" signature="1210:1247" ph="{...}" />
+                <marker date="1566387376273" expanded="false" signature="1296:1339" ph="{...}" />
+                <marker date="1566387376273" expanded="false" signature="1375:1750" ph="{...}" />
+                <marker date="1566387376273" expanded="true" signature="1464:1493" ph="{...}" />
+                <marker date="1566387376273" expanded="true" signature="1791:1990" ph="{...}" />
+                <marker date="1566387376273" expanded="true" signature="1994:2036" ph="/// 生成道路的方法 ... " />
+                <marker date="1566387376273" expanded="true" signature="2061:2274" ph="{...}" />
+                <marker date="1566387376273" expanded="true" signature="2167:2216" ph="{...}" />
+                <marker date="1566387376273" expanded="true" signature="2223:2251" ph="{...}" />
+                <marker date="1566387376273" expanded="true" signature="2277:2351" ph="/// 播放道路动画 ... " />
+                <marker date="1566387376273" expanded="true" signature="2398:2559" ph="{...}" />
+                <marker date="1566387376273" expanded="true" signature="2497:2516" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scipts/RoadController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+              <folding>
+                <marker date="1566436521668" expanded="false" signature="6:78" ph="..." />
+                <marker date="1566436521668" expanded="true" signature="100:117" ph="{...}" />
+                <marker date="1566436521668" expanded="true" signature="162:1001" ph="{...}" />
+                <marker date="1566436521668" expanded="true" signature="219:286" ph="{...}" />
+                <marker date="1566436521668" expanded="true" signature="318:653" ph="{...}" />
+                <marker date="1566436521668" expanded="true" signature="346:390" ph="{...}" />
+                <marker date="1566436521668" expanded="true" signature="420:463" ph="{...}" />
+                <marker date="1566436521668" expanded="true" signature="509:650" ph="{...}" />
+                <marker date="1566436521668" expanded="true" signature="683:868" ph="{...}" />
+                <marker date="1566436521668" expanded="true" signature="711:755" ph="{...}" />
+                <marker date="1566436521668" expanded="true" signature="801:865" ph="{...}" />
+                <marker date="1566436521668" expanded="true" signature="899:999" ph="{...}" />
+                <marker date="1566436521668" expanded="true" signature="947:996" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scipts/PlayerController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="608">
+              <caret line="122" column="53" lean-forward="true" selection-start-line="122" selection-start-column="53" selection-end-line="122" selection-end-column="53" />
+              <folding>
+                <marker date="1566444593887" expanded="true" signature="6:144" ph="..." />
+                <marker date="1566444593887" expanded="true" signature="160:298" ph="/* 思考题 ... */" />
+                <marker date="1566444593887" expanded="true" signature="345:5081" ph="{...}" />
+                <marker date="1566444593887" expanded="true" signature="636:928" ph="/* public float jumpPower; //玩家的跳跃高度 ... */" />
+                <marker date="1566444593887" expanded="true" signature="1071:2209" ph="{...}" />
+                <marker date="1566444593887" expanded="true" signature="1139:2206" ph="/* jumpPower = 3.0f; ... */" />
+                <marker date="1566444593887" expanded="true" signature="2230:3311" ph="{...}" />
+                <marker date="1566444593887" expanded="true" signature="2234:3170" ph="/* if (Input.GetKeyDown(KeyCode.J) &amp;&amp; isTurnleftEnd) ... */" />
+                <marker date="1566444593887" expanded="true" signature="3208:3236" ph="{...}" />
+                <marker date="1566444593887" expanded="true" signature="3240:3308" ph="/* if (Input.GetKeyUp(KeyCode.W)) ... */" />
+                <marker date="1566444593887" expanded="true" signature="3334:3902" ph="{...}" />
+                <marker date="1566444593887" expanded="true" signature="3381:3744" ph="/* if (characterController.isGrounded) { ... */" />
+                <marker date="1566444593887" expanded="true" signature="3925:3974" ph="{...}" />
+                <marker date="1566444593887" expanded="true" signature="3991:4599" ph="{...}" />
+                <marker date="1566444593887" expanded="true" signature="3995:4578" ph="/* moveSpeed += Time.deltaTime * 0.3f; ... */" />
+                <marker date="1566444593887" expanded="true" signature="4602:5079" ph="/* private void OnControllerColliderHit(ControllerColliderHit hit) ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scipts/RoadChildrenChange.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="532">
+              <caret line="94" column="78" selection-start-line="94" selection-start-column="78" selection-end-line="94" selection-end-column="78" />
+              <folding>
+                <marker date="1566436521662" expanded="true" signature="6:97" ph="..." />
+                <marker date="1566436521662" expanded="true" signature="147:3279" ph="{...}" />
+                <marker date="1566436521662" expanded="true" signature="536:664" ph="/* public GameObject gold;                           //金币物体 ... */" />
+                <marker date="1566436521662" expanded="true" signature="689:898" ph="{...}" />
+                <marker date="1566436521662" expanded="true" signature="924:1418" ph="{...}" />
+                <marker date="1566436521662" expanded="true" signature="931:1412" ph="/* gold = Resources.Load(&quot;Gold&quot;) as GameObject;            //读取文件金币的预制体 ... */" />
+                <marker date="1566436521662" expanded="true" signature="1437:2034" ph="{...}" />
+                <marker date="1566436521662" expanded="true" signature="1469:1533" ph="{...}" />
+                <marker date="1566436521662" expanded="true" signature="1582:1718" ph="{...}" />
+                <marker date="1566436521662" expanded="true" signature="1771:1905" ph="{...}" />
+                <marker date="1566436521662" expanded="true" signature="1907:2028" ph="/* if (gold != null) ... */" />
+                <marker date="1566436521662" expanded="true" signature="2044:2096" ph="/// 改变这个物体的相对坐标 ... " />
+                <marker date="1566436521662" expanded="true" signature="2124:2581" ph="{...}" />
+                <marker date="1566436521662" expanded="true" signature="2243:2314" ph="{...}" />
+                <marker date="1566436521662" expanded="true" signature="2366:2439" ph="{...}" />
+                <marker date="1566436521662" expanded="true" signature="2586:2638" ph="/// 改变这个物体的相对旋转 ... " />
+                <marker date="1566436521662" expanded="true" signature="2669:2875" ph="{...}" />
+                <marker date="1566436521662" expanded="true" signature="2880:2933" ph="/// 初始化物体相对旋转与坐标 ... " />
+                <marker date="1566436521662" expanded="true" signature="2956:3131" ph="{...}" />
+                <marker date="1566436521662" expanded="true" signature="3136:3191" ph="/// 初始化金币数据并开始旋转开关 ... " />
+                <marker date="1566436521662" expanded="true" signature="3218:3275" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Instance</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scipts/RoadController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C0EF81E1-639B-423A-B35C-E0E4C08B5B7A/4e/8751d979/Object.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../3D Beginner/Assets/MyScripts/Tank/TankMovement.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scipts/GameManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scipts/RoadChildrenChange.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scipts/PlayerController.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scipts/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scipts/RoadChildrenChange.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scipts/RoadController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scipts/PlayerController.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="2777" />
+    <option name="y" value="-27" />
+    <option name="width" value="2575" />
+    <option name="height" value="1398" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C#" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c92da05a-a1a1-46c9-8098-c6a3df4ff45c" name="Default Changelist" comment="" />
+      <created>1566372430844</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566372430844</updated>
+      <workItem from="1566372435967" duration="20815000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="20815000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="2553" y="-7" width="2062" height="1126" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="LuaCheck" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Performance Profiler" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Unit Tests Coverage" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C0EF81E1-639B-423A-B35C-E0E4C08B5B7A/4e/8751d979/Object.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="233" column="20" selection-start-line="233" selection-start-column="20" selection-end-line="233" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scipts/GameManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="599">
+          <caret line="108" column="9" selection-start-line="108" selection-start-column="9" selection-end-line="108" selection-end-column="9" />
+          <folding>
+            <marker date="1566387376273" expanded="true" signature="6:133" ph="..." />
+            <marker date="1566387376273" expanded="true" signature="175:2561" ph="{...}" />
+            <marker date="1566387376273" expanded="true" signature="484:625" ph="/* [FormerlySerializedAs(&quot;isBuidDirRoad&quot;)] ... */" />
+            <marker date="1566387376273" expanded="true" signature="663:727" ph="/* int dirRoadType; //方向道路的类型 ... */" />
+            <marker date="1566387376273" expanded="true" signature="750:1250" ph="{...}" />
+            <marker date="1566387376273" expanded="true" signature="1026:1178" ph="{...}" />
+            <marker date="1566387376273" expanded="true" signature="1210:1247" ph="{...}" />
+            <marker date="1566387376273" expanded="false" signature="1296:1339" ph="{...}" />
+            <marker date="1566387376273" expanded="false" signature="1375:1750" ph="{...}" />
+            <marker date="1566387376273" expanded="true" signature="1464:1493" ph="{...}" />
+            <marker date="1566387376273" expanded="true" signature="1791:1990" ph="{...}" />
+            <marker date="1566387376273" expanded="true" signature="1994:2036" ph="/// 生成道路的方法 ... " />
+            <marker date="1566387376273" expanded="true" signature="2061:2274" ph="{...}" />
+            <marker date="1566387376273" expanded="true" signature="2167:2216" ph="{...}" />
+            <marker date="1566387376273" expanded="true" signature="2223:2251" ph="{...}" />
+            <marker date="1566387376273" expanded="true" signature="2277:2351" ph="/// 播放道路动画 ... " />
+            <marker date="1566387376273" expanded="true" signature="2398:2559" ph="{...}" />
+            <marker date="1566387376273" expanded="true" signature="2497:2516" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scipts/RoadChildrenChange.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="94" column="78" selection-start-line="94" selection-start-column="78" selection-end-line="94" selection-end-column="78" />
+          <folding>
+            <marker date="1566436521662" expanded="true" signature="6:97" ph="..." />
+            <marker date="1566436521662" expanded="true" signature="147:3279" ph="{...}" />
+            <marker date="1566436521662" expanded="true" signature="536:664" ph="/* public GameObject gold;                           //金币物体 ... */" />
+            <marker date="1566436521662" expanded="true" signature="689:898" ph="{...}" />
+            <marker date="1566436521662" expanded="true" signature="924:1418" ph="{...}" />
+            <marker date="1566436521662" expanded="true" signature="931:1412" ph="/* gold = Resources.Load(&quot;Gold&quot;) as GameObject;            //读取文件金币的预制体 ... */" />
+            <marker date="1566436521662" expanded="true" signature="1437:2034" ph="{...}" />
+            <marker date="1566436521662" expanded="true" signature="1469:1533" ph="{...}" />
+            <marker date="1566436521662" expanded="true" signature="1582:1718" ph="{...}" />
+            <marker date="1566436521662" expanded="true" signature="1771:1905" ph="{...}" />
+            <marker date="1566436521662" expanded="true" signature="1907:2028" ph="/* if (gold != null) ... */" />
+            <marker date="1566436521662" expanded="true" signature="2044:2096" ph="/// 改变这个物体的相对坐标 ... " />
+            <marker date="1566436521662" expanded="true" signature="2124:2581" ph="{...}" />
+            <marker date="1566436521662" expanded="true" signature="2243:2314" ph="{...}" />
+            <marker date="1566436521662" expanded="true" signature="2366:2439" ph="{...}" />
+            <marker date="1566436521662" expanded="true" signature="2586:2638" ph="/// 改变这个物体的相对旋转 ... " />
+            <marker date="1566436521662" expanded="true" signature="2669:2875" ph="{...}" />
+            <marker date="1566436521662" expanded="true" signature="2880:2933" ph="/// 初始化物体相对旋转与坐标 ... " />
+            <marker date="1566436521662" expanded="true" signature="2956:3131" ph="{...}" />
+            <marker date="1566436521662" expanded="true" signature="3136:3191" ph="/// 初始化金币数据并开始旋转开关 ... " />
+            <marker date="1566436521662" expanded="true" signature="3218:3275" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scipts/RoadController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+          <folding>
+            <marker date="1566436521668" expanded="false" signature="6:78" ph="..." />
+            <marker date="1566436521668" expanded="true" signature="100:117" ph="{...}" />
+            <marker date="1566436521668" expanded="true" signature="162:1001" ph="{...}" />
+            <marker date="1566436521668" expanded="true" signature="219:286" ph="{...}" />
+            <marker date="1566436521668" expanded="true" signature="318:653" ph="{...}" />
+            <marker date="1566436521668" expanded="true" signature="346:390" ph="{...}" />
+            <marker date="1566436521668" expanded="true" signature="420:463" ph="{...}" />
+            <marker date="1566436521668" expanded="true" signature="509:650" ph="{...}" />
+            <marker date="1566436521668" expanded="true" signature="683:868" ph="{...}" />
+            <marker date="1566436521668" expanded="true" signature="711:755" ph="{...}" />
+            <marker date="1566436521668" expanded="true" signature="801:865" ph="{...}" />
+            <marker date="1566436521668" expanded="true" signature="899:999" ph="{...}" />
+            <marker date="1566436521668" expanded="true" signature="947:996" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../3D Beginner/Assets/MyScripts/Tank/TankMovement.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="26" column="57" lean-forward="true" selection-start-line="26" selection-start-column="57" selection-end-line="26" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scipts/PlayerController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="122" column="53" lean-forward="true" selection-start-line="122" selection-start-column="53" selection-end-line="122" selection-end-column="53" />
+          <folding>
+            <marker date="1566444593887" expanded="true" signature="6:144" ph="..." />
+            <marker date="1566444593887" expanded="true" signature="160:298" ph="/* 思考题 ... */" />
+            <marker date="1566444593887" expanded="true" signature="345:5081" ph="{...}" />
+            <marker date="1566444593887" expanded="true" signature="636:928" ph="/* public float jumpPower; //玩家的跳跃高度 ... */" />
+            <marker date="1566444593887" expanded="true" signature="1071:2209" ph="{...}" />
+            <marker date="1566444593887" expanded="true" signature="1139:2206" ph="/* jumpPower = 3.0f; ... */" />
+            <marker date="1566444593887" expanded="true" signature="2230:3311" ph="{...}" />
+            <marker date="1566444593887" expanded="true" signature="2234:3170" ph="/* if (Input.GetKeyDown(KeyCode.J) &amp;&amp; isTurnleftEnd) ... */" />
+            <marker date="1566444593887" expanded="true" signature="3208:3236" ph="{...}" />
+            <marker date="1566444593887" expanded="true" signature="3240:3308" ph="/* if (Input.GetKeyUp(KeyCode.W)) ... */" />
+            <marker date="1566444593887" expanded="true" signature="3334:3902" ph="{...}" />
+            <marker date="1566444593887" expanded="true" signature="3381:3744" ph="/* if (characterController.isGrounded) { ... */" />
+            <marker date="1566444593887" expanded="true" signature="3925:3974" ph="{...}" />
+            <marker date="1566444593887" expanded="true" signature="3991:4599" ph="{...}" />
+            <marker date="1566444593887" expanded="true" signature="3995:4578" ph="/* moveSpeed += Time.deltaTime * 0.3f; ... */" />
+            <marker date="1566444593887" expanded="true" signature="4602:5079" ph="/* private void OnControllerColliderHit(ControllerColliderHit hit) ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
